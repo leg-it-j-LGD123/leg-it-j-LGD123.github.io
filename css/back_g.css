@@ -137,3 +137,7 @@
     text-shadow: #5636ed 0 0 5px;
   }
 }
+#recent-posts>.recent-post-item:nth-child(n+3) {
+  /* Your styles here */
+  width: 32% !important;
+}
